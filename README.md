@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshavardhan26082001
 - 👀 I’m interested in Coding,Web development,Algorithms,Mathematics and Problem solving.
-- 🌱 I’m currently learning Django Framework.
+- 🌱 I’m currently learning Spring Framework.
 - 💞️ I’m looking to collaborate on git.
 - 📫 How to reach me harsha26082001@gmail.com
 

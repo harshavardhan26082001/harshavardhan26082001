@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harshavardhan26082001
 - 👀 I’m interested in Coding,Web development,Algorithms,Mathematics and Problem solving.
-- 🌱 I’m currently learning Spring Framework.
-- 💞️ I’m looking to collaborate on git.
+- 🌱 I’m currently looking for collaborating.
 - 📫 How to reach me aharsha2608@gmail.com
 
 <!---
